@@ -12,7 +12,7 @@
 </template>
 
 <script>
-// var firebase = require("nativescript-plugin-firebase");
+var firebase = require("nativescript-plugin-firebase");
 
 export default {
     methods: {
