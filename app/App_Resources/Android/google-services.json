@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "80595183092",
+    "firebase_url": "https://ns-vue-cli-template-firebase.firebaseio.com",
+    "project_id": "ns-vue-cli-template-firebase",
+    "storage_bucket": "ns-vue-cli-template-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80595183092:android:2dffa9e561f64e39",
+        "android_client_info": {
+          "package_name": "com.nsvuefire.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80595183092-lsvbatetd04lur4ib8kc18p18cokku7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlwAG4gOdhJTFfxL3cjlGo-tvp89zSckA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
